@@ -34,7 +34,7 @@ Desarrollar una solución digital accesible que permita:
 En desarrollo:  
 Actualmente se están desarrollando los módulos de creación de cuestionarios y generación de códigos QR. Próximamente se integrará el sistema de retroalimentación y estadísticas.
 
-## ntegrantes del equipo
+## Integrantes del equipo
 
 - Nombre 1 – Alejandro Hernández Díaz
 - Nombre 2 – José Antonio Díaz Garcia 
